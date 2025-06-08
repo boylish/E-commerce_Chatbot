@@ -28,7 +28,7 @@ This project involves developing a full-stack E-commerce Chatbot application. Th
 ## Sample Queries and Results
 Examples Search:-    samsung phone , electronics , books, toys, home 
 
-##Project Images
+## Project Images
 
 ![Screenshot 2025-06-08 223511](https://github.com/user-attachments/assets/4ba25e01-993a-42cb-8b4a-2f6a53a09c18)
 
