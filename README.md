@@ -12,12 +12,6 @@ This project involves developing a full-stack E-commerce Chatbot application. Th
 - Hosting: Render (for backend deployment)  
 - Additional Tools: Nodemon, Git, GitHub  
 
-## Project Setup
-This section includes all the necessary information to get the project up and running on a local machine or server environment.
-
-## Execution Instructions
-Detailed steps on how to install dependencies, configure environment variables, and start the frontend and backend services.
-
 ## Features
 - User authentication and authorization  
 - Product search and browsing  
@@ -26,7 +20,7 @@ Detailed steps on how to install dependencies, configure environment variables, 
 - Real-time communication with the backend  
 
 ## Sample Queries and Results
-Examples of chatbot queries and the responses or actions the system performs, demonstrating its capabilities and accuracy.
+###Examples_Search_in_Chatbot: samsung phone , electronics , books, toys, home 
 
 ## Project Deliverables
 - A GitHub repository containing all source code, complete with a detailed README.md outlining project setup, execution instructions, and a comprehensive project summary.  
