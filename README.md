@@ -19,8 +19,12 @@ This project involves developing a full-stack E-commerce Chatbot application. Th
 - Order placement and management  
 - Real-time communication with the backend  
 
+## Dummy Login Data
+- email: test10@gmail.com
+- password: test10
+
 ## Sample Queries and Results
-###Examples_Search_in_Chatbot: samsung phone , electronics , books, toys, home 
+Examples_Search_in_Chatbot: samsung phone , electronics , books, toys, home 
 
 ## Project Deliverables
 - A GitHub repository containing all source code, complete with a detailed README.md outlining project setup, execution instructions, and a comprehensive project summary.  
